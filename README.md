@@ -1,2 +1,2 @@
 # holbertonschool-shell
-read me file
+* Holberton SHELL project
