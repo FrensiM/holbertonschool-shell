@@ -1,7 +1,7 @@
 # Shell project
 * Where am I?
 
-Write a script that prints the absolute path name of the current working directory. [The answer] (https://github.com/FrensiM/holbertonschool-shell/blob/main/basics/0-current_working_directory)
+Write a script that prints the absolute path name of the current working directory. [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/basics/0-current_working_directory)
 
 * What's in there?
 
