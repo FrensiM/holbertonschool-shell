@@ -16,6 +16,7 @@ Display current directory contents in a long format [The answer](https://github.
 
 * Hidden files
 Display current directory contents, including hidden files (starting with .). Use the long format. [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/basics/4-listmorefiles)
+
 * I love numbers
 
 Display current directory contents.
