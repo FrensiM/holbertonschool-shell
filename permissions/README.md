@@ -18,36 +18,36 @@
 * 5.Execute
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/5-execute)
 
-* 6. Multiple permissions
+* 6.Multiple permissions
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/6-multiple_permissions)
 
-* 7. Everybody!
+* 7.Everybody!
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/7-everybody)
 
-* 8. James Bond
+* 8.James Bond
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/8-James_Bond)
 
-* 9. John Doe
+* 9.John Doe
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/9-John_Doe)
 
-* 10. Look in the mirror
+* 10.Look in the mirror
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/10-mirror_permissions)
 
-* 11. Directories
+* 11.Directories
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/11-directories_permissions)
 
-* 12. More directories
+* 12.More directories
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/12-directory_permissions)
 
-* 13. Change group
+* 13.Change group
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/13-change_group)
 
-* 14. Owner and group
+* 14.Owner and group
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/14-change_owner_and_group)
 
-* 15. Symbolic links
+* 15.Symbolic links
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/15-symbolic_link_permissions)
 
-* 16. If only
+* 16.If only
 [The answer](https://github.com/FrensiM/holbertonschool-shell/blob/main/permissions/16-if_only)
 
